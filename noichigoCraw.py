@@ -3,10 +3,10 @@
 """
 Copyright (c) 2014 Baidu.com, Inc. All Rights Reserved
 
-This module provide a netSpider for https://zeotogen.blog.fc2.com/
+This module provide a netSpider for https://www.no-ichigo.jp/search
 
 Authors:zhangqi70@baidu.com
-Date:2023/08/09
+Date:2023/08/10
 """
 import os.path
 
